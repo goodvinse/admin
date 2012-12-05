@@ -5,6 +5,7 @@ import re
 
 #list_for_set - list for goods codes
 #list_for_group - list for name groups
+#??
 list_for_set=[]
 list_for_group=[]
 
